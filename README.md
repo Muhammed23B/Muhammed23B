@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Kaleem M" />
+  <img src="./assets/banner.svg" alt="Mohammed Bilal" />
 </p>
 <!-- Role pills — trailing spacer equalizes row so Systems Builder sits at row center -->
 <p align="center">
@@ -15,13 +15,13 @@
 </p>
 <!-- Typing headline -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaleem-m5">
+  <a href="https://www.linkedin.com/in/mohammed-bilal-ulla-shariff-75a9b9299/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&duration=11000&color=00FF7F&center=true&vCenter=true&width=700&lines=I+Turn+Complex+Ideas+Into+Production+Systems;Full-Stack+%C2%B7+SaaS+%C2%B7+ERPs+%C2%B7+APIs+%C2%B7+Blockchain" alt="typing headline" />
   </a>
 </p>
 <!-- Socials + profile views -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaleem-m5">
+  <a href="https://www.linkedin.com/in/mohammed-bilal-ulla-shariff-75a9b9299/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -32,13 +32,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=What+I+Do&pause=1000&duration=11000" alt="What I Do" />
 </p>
-Build full-stack applications using MERN, Next.js and modern backend technologies.
-Develop AI-powered tools that solve practical developer and productivity problems.
-Strong foundation in Data Structures, Algorithms, OOP, DBMS and Operating Systems.
-Software Engineering Intern @ Fluxon, contributing to production-grade internal platforms.
-Open to Software Engineering, Full-Stack Development and Product Engineering opportunities.
-LeetCode -> chidorixzoro
-LinkedIn -> Kaleem
+Build scalable full-stack applications using Java, Spring Boot, React and modern backend technologies.
+Develop AI and Machine Learning solutions that solve real-world business problems.
+Strong foundation in Data Structures, Algorithms, OOP, DBMS, Operating Systems and Computer Networks.
+Former Machine Learning Intern @ Proxenix, contributing to deep learning and data-driven solutions.
+Open to Software Engineering, Full-Stack Development and AI/ML opportunities.
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 </p>
